@@ -12,8 +12,10 @@ A Java-based application that implements Huffman coding for file compression and
 ✔️ Efficient and lossless compression  
 
 ## 📷 Preview  
-![GUI Screenshot](assets/gui_screenshot.png)  
-*(Replace with an actual image of your GUI)*  
+![GUI Screenshot](https://github.com/MalakMutan/GUI-Screenshot/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-03-21%20011035.png?raw=true)
+![GUI Screenshot](https://github.com/MalakMutan/GUI-Screenshot/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-03-21%20011111.png?raw=true)
+
+
 
 ## 🛠️ Installation & Usage  
 
